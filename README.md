@@ -7,6 +7,10 @@ frontend-nanodegree-arcade-game
 This is my 6th project in the Udacity Nanodegree program. The goal is to create an arcade frogger game using object oriented programming skills in JavaScript and HTML5
 canvas. The images, engine.js and resources.js are provided. The main work is to be done on app.js file.
 
+## link
+
+You can find the live running site [here](https://sohamsarkar1994.github.io/arcade-game-clone-project/.).
+
 ## Loading instructions
 
 Load **index.html** with the help of your favorite browser.
